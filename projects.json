@@ -1,0 +1,61 @@
+{
+  "1943": {
+    "branches": {
+      "main": {
+        "versions": {
+          "1.0.0-0": {
+            "commit": "ad95fea85c7287998ba030acfcb1bcc9cde12bd5",
+            "changelog": "git log  ad95fea85c7287998ba030acfcb1bcc9cde12bd5^1..ad95fea85c7287998ba030acfcb1bcc9cde12bd5"
+          },
+          "1.0.0-1": {
+            "commit": "8f1f79e402e0fc412d5680cf7fc92b4f92dd2ae5",
+            "changelog": "git log  ad95fea85c7287998ba030acfcb1bcc9cde12bd5..8f1f79e402e0fc412d5680cf7fc92b4f92dd2ae5"
+          }
+        }
+      }
+    }
+  },
+  "2012": {
+    "branches": {
+      "stage": {
+        "versions": {
+          "4.4.0-0": {
+            "commit": "eef6a89d4fc85b7b3f7c01d3206b1383c559891d",
+            "changelog": "git log  eef6a89d4fc85b7b3f7c01d3206b1383c559891d^1..eef6a89d4fc85b7b3f7c01d3206b1383c559891d"
+          },
+          "4.4.0-1": {
+            "commit": "83f37ed23df8245e84c7a5f746077636be6205a2",
+            "changelog": "git log  eef6a89d4fc85b7b3f7c01d3206b1383c559891d..83f37ed23df8245e84c7a5f746077636be6205a2"
+          },
+          "5.3.0-0": {
+            "commit": "a806221f4fafb31419b065713a3abbb1e8ea789f",
+            "changelog": "git log  83f37ed23df8245e84c7a5f746077636be6205a2..a806221f4fafb31419b065713a3abbb1e8ea789f"
+          },
+          "5.3.0-1": {
+            "commit": "992f89a6fd0b048733fa210d27fd4a8696493ec7",
+            "changelog": "git log  a806221f4fafb31419b065713a3abbb1e8ea789f..992f89a6fd0b048733fa210d27fd4a8696493ec7"
+          },
+          "5.3.0-2": {
+            "commit": "c0c1fccc70eadbe31a63442de8252bc07d37a5d8",
+            "changelog": "git log  992f89a6fd0b048733fa210d27fd4a8696493ec7..c0c1fccc70eadbe31a63442de8252bc07d37a5d8"
+          },
+          "5.3.0-3": {
+            "commit": "3487959d917cf7e26bd2aec4424d2044e8246034",
+            "changelog": "git log  c0c1fccc70eadbe31a63442de8252bc07d37a5d8..3487959d917cf7e26bd2aec4424d2044e8246034"
+          },
+          "5.4.0-0": {
+            "commit": "58b593954574e662c0f18b3539b1228f88fbe8ef",
+            "changelog": "git log  3487959d917cf7e26bd2aec4424d2044e8246034..58b593954574e662c0f18b3539b1228f88fbe8ef"
+          },
+          "5.4.0-1": {
+            "commit": "72621d656b17908d0e171ce85853721b3e6e6eff",
+            "changelog": "git log  58b593954574e662c0f18b3539b1228f88fbe8ef..72621d656b17908d0e171ce85853721b3e6e6eff"
+          },
+          "5.5.0-0": {
+            "commit": "ea97a31689ddc50e25616ff03a36cf5781dcd923",
+            "changelog": "git log  72621d656b17908d0e171ce85853721b3e6e6eff..ea97a31689ddc50e25616ff03a36cf5781dcd923"
+        }
+      }
+    }
+  }
+}
